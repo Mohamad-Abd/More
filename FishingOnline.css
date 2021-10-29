@@ -1,0 +1,233 @@
+.este{
+    font-size: 2.5rem;
+    color: #424242;
+}
+html{
+    font-size: 62.5%;
+}
+.lelo{
+    margin-top: 2rem;
+    height: 7rem;
+    margin-left: 5rem;
+}
+.marg{
+    margin-bottom: 2rem;
+}
+.lul{
+    padding-left: 2rem;
+    margin-right:5rem ;
+    margin-top: 1rem;
+    color: #424242;   
+}
+.lele{
+    background-image:url("mago.jpg");
+    background-size: cover;
+    height: 86rem;
+    margin-bottom: 7rem;
+}
+.law{
+    top: 25rem;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.speno{
+    position: relative;
+    font-size: 7rem;
+    display: block;
+    top: 24rem;
+    text-align: center;
+    color: white;
+}
+.mls{
+    color: #4c8be0;
+    font-size: 5rem;
+    font-weight: bold;
+    position: relative;
+    width: 40rem;
+    margin-bottom: 3rem;
+    text-align: right;
+    margin-left: 2rem;   
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+}
+.downe{
+    height: 90rem;
+    width: 100%;    
+}
+.kabe{
+    font-size: 2.4rem;
+    color: #212529;
+    margin-left: 12rem;
+    position: relative;
+    margin-bottom: 2rem;
+    text-align: end;
+    font-family: 'Tajawal', sans-serif;
+      
+}
+@media(max-width:80rem){
+    html{
+        font-size: 45%;
+    }
+    
+    
+    
+}
+@media(max-width:60rem){ 
+    .kabe{
+        font-size: 130%;
+        font-weight: bold;
+        color: #212529;
+    }  
+    .mls{
+        font-size: 370%;
+        margin-left: 3rem;
+    }
+    .myt{
+        position: relative;
+        left: 4rem;
+    }
+    .ai{
+        right: 5rem;
+    }
+    .esa{
+        font-weight: bold;
+    }
+    
+
+    
+ }
+ 
+ .za::before{
+     color: orangered;
+     content: "• ";
+     font-size: 6rem;
+ }
+ 
+.std{
+    display: inline-block;
+    position: relative;
+    height: 50rem;
+}
+.pale{
+    display: inline-block;
+    background-image: url("wavy.jpg");
+    height: 50rem;
+}
+.wav{
+    height: 40rem;
+    display: block;
+    text-align: end ;
+    position: absolute;
+    margin-left: 3rem;
+}
+.za{
+    font-size: 2.3em;
+    direction: rtl;
+    text-align: start;
+    position: relative;
+    right: 2rem;
+    list-style: none;
+}
+.ca{
+    position: relative;
+    right: 3.2rem;
+}
+.fisho{
+    position: relative;
+    height: 50rem;
+    transform: rotate(350deg);
+    bottom: 3rem;
+    right: 2rem;
+    width: 100%;
+    width: 60rem;
+}
+.rost{
+    position: relative;
+    height: 48rem;
+    left: 9rem;
+}
+.sase{
+    text-align: end;
+}
+.tra{
+    position: relative;
+    width: 100%;
+}
+.esa{
+    position: relative;
+    bottom: 6rem;
+    right: 4rem;
+    font-family: 'Tajawal', sans-serif;
+}
+.mao{
+margin-top: 25rem;
+width: 100%;
+}
+.meta{
+    position: relative;
+    text-align: end;
+}
+.down{
+    position: relative;
+    height: 40rem;
+    top: 4rem;
+}
+.ki{
+    margin-top: 25rem;
+    margin-bottom: 25rem;
+    width: 100%;
+}
+.shrimpo{
+    position: relative;
+    height: 30rem;
+    left: 10rem;
+}
+.am{
+right: 2.5rem;
+    position: relative;
+    color: #212529;
+    margin-top: 5rem;
+    
+}
+.end{
+    background-color: #4c8be0;
+    height: 40rem;
+    width: 100%;
+    
+}
+.po{
+    color: white;
+    font-size: 2.5rem;
+    text-align: start;
+    left: 7rem;
+    top: 10rem;
+}
+.tunee{
+    position: relative;
+    height: 10rem;
+    left: 7rem;
+    top: 5rem;
+}
+.col{
+    position: relative;
+    color: white;
+    text-align: start;
+    left: 6rem;
+    top: 15rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+    position: relative;
+    width: 40rem;
+    margin-bottom: 3rem;
+    text-align: right;
+    margin-left: 2rem;  
+}
+#active{
+    color: orangered;
+}
+.leka{
+    position: relative;
+    left: 9rem;
+}
